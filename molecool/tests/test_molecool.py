@@ -3,8 +3,8 @@ Unit and regression test for the molecool package.
 """
 
 # Import package, test suite, and other packages as needed
-# import molecool
-# import pytest
+import molecool
+import pytest
 import sys
 
 
